@@ -1,0 +1,22 @@
+{
+    "name": "nice",
+    "description": "nice",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "b7b89f61-1667-4e9d-ab6c-f7c4bca77ac3"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "64"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://github.com/softbeen/nice/",
+    "repository": "https://github.com/softbeen/nice",
+    "stack": "container"
+}
